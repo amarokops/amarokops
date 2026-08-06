@@ -49,11 +49,23 @@ End-to-end analytics project based on a synthetic free-to-play game dataset.
 
 `MySQL` `Power BI` `DAX` `Power Query`
 
+### [Competitive Tournament Analytics](https://github.com/amarokops/competitive-tournament-analytics)
+
+End-to-end Business Intelligence solution built for a real tournament community.
+
+- Collected public tournament standings and teamlists data with Python
+- Transformed raw data into player results and Pokémon usage tables
+- Built a Power BI analytical model with Power Query and DAX
+- Created interactive tournament, player, and competitive performance dashboards
+- Delivered the solution in response to a real need raised by tournament participants
+
+`Python` `Power BI` `DAX` `Power Query` `Web Scraping`
+
 ---
 
 ## 🎯 Community & Event Operations
 
-### [Mount Lanakila](https://lanakila.vg)
+### [Lanakila](https://lanakila.vg)
 
 Founder and organizer of a competitive gaming platform focused on structured, beginner-friendly online tournaments. I designed and maintain the platform's WordPress website, including its information architecture, bilingual content structure, responsive layouts, and custom CSS.
 
@@ -64,7 +76,7 @@ My responsibilities include:
 - reviewing attendance, drop-off and event flow,
 - documenting issues and improving future events based on post-event analysis.
 
-I also serve as an official Pokémon Professor and tournament staff member, with experience supporting regional and international competitive events.
+I also serve as an official competitive judge and staff member, with experience supporting regional and international off-line events.
 
 ---
 
