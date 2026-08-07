@@ -2,7 +2,7 @@
 <p align="center"><strong>Data Analyst</strong><br>
 SQL • Power BI • MS Excel</p>
 
-<p align="center">Process engineer turned data analyst.</p>
+<p align="center">Traded distillation columns for conversion funnels.</p>
 
 <p align="center">
   <a href="mailto:amarok@lanakila.vg"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
