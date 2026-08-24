@@ -38,6 +38,18 @@ I'm currently developing a portfolio of end-to-end analytics projects.
 
 ## 📊 Featured Projects
 
+### [Online Retail Sales Analysis](https://github.com/amarokops/online-retail-sales-analysis)
+
+End-to-end retail analytics project based on a real UK online retail dataset.
+
+- Audited, cleaned, and classified transaction data in MySQL
+- Built a star schema with reusable order-level and customer-level analytical views
+- Analyzed merchandise sales, cancellation exposure, products, markets, and order patterns
+- Applied RFM analysis to segment customers by purchasing behaviour and value
+- Validated results in Excel and built a four-page interactive Power BI report
+
+`MySQL` `MS Excel` `Power BI` `DAX` `Power Query`
+
 ### **[F2P Game Monetization Analysis](https://github.com/amarokops/gacha-monetization-analysis)**
 End-to-end analytics project based on a synthetic free-to-play game dataset.
 
