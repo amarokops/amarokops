@@ -51,6 +51,7 @@ End-to-end retail analytics project based on a real UK online retail dataset.
 `MySQL` `MS Excel` `Power BI` `DAX` `Power Query`
 
 ### **[F2P Game Monetization Analysis](https://github.com/amarokops/gacha-monetization-analysis)**
+
 End-to-end analytics project based on a synthetic free-to-play game dataset.
 
 - Designed a relational data model
@@ -60,6 +61,18 @@ End-to-end analytics project based on a synthetic free-to-play game dataset.
 - Documented assumptions, methodology, and business findings
 
 `MySQL` `Power BI` `DAX` `Power Query`
+
+### [TCG Inventory Management](https://github.com/amarokops/tcg-inventory-management)
+
+Excel-based inventory management system built for a synthetic multi-store TCG retailer.
+
+- Built a transaction-driven model for purchases, sales, returns, transfers, and stock adjustments
+- Automated stock calculations, reorder quantities, and manual sourcing recommendations
+- Consolidated purchase requirements by supplier with minimum-order checks
+- Created an interactive dashboard with store and product-category filters
+- Delivered a populated example and a reusable template with an integrated user guide
+
+`MS Excel` `Dynamic Arrays` `XLOOKUP` `Data Validation`
 
 ### [Competitive Tournament Analytics](https://github.com/amarokops/competitive-tournament-analytics)
 
